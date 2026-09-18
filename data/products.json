@@ -1,0 +1,578 @@
+[
+  {
+    "id": "chromatography-gc",
+    "name": "Gas Chromatography Systems (GC)",
+    "nameId": "Sistem Kromatografi Gas (GC)",
+    "category": "Chromatography",
+    "description": "Advanced gas chromatography systems for precise chemical analysis. Ideal for petrochemical, environmental, and food safety applications with industry-leading sensitivity and reproducibility.",
+    "descriptionId": "Sistem kromatografi gas canggih untuk analisis kimia presisi. Ideal untuk aplikasi petrokimia, lingkungan, dan keamanan pangan dengan sensitivitas dan reproduksibilitas terdepan.",
+    "image": "/images/gc-system.jpg",
+    "features": [
+      "High sensitivity detection",
+      "Automated sample injection",
+      "Multi-detector configurations",
+      "Advanced data processing software"
+    ],
+    "featuresId": [
+      "Deteksi sensitivitas tinggi",
+      "Injeksi sampel otomatis",
+      "Konfigurasi multi-detektor",
+      "Perangkat lunak pemrosesan data canggih"
+    ],
+    "specifications": {
+      "Detection Limit": "ppb level",
+      "Temperature Range": "-60°C to 450°C",
+      "Carrier Gas": "He, N2, H2"
+    },
+    "createdAt": "2024-01-15",
+    "updatedAt": "2024-01-15",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-analytical-chemistry",
+    "subCategoryName": "Analytical Chemistry"
+  },
+  {
+    "id": "chromatography-lc",
+    "name": "Liquid Chromatography Systems (LC/HPLC)",
+    "nameId": "Sistem Kromatografi Cair (LC/HPLC)",
+    "category": "Chromatography",
+    "description": "High-performance liquid chromatography systems delivering exceptional separation efficiency for pharmaceutical, clinical, and research laboratories.",
+    "descriptionId": "Sistem kromatografi cair berkinerja tinggi yang memberikan efisiensi pemisahan luar biasa untuk laboratorium farmasi, klinis, dan penelitian.",
+    "image": "/images/lc-system.jpg",
+    "features": [
+      "Ultra-high pressure capability",
+      "UV-Vis and fluorescence detection",
+      "Gradient elution systems",
+      "Compliance with FDA 21 CFR Part 11"
+    ],
+    "featuresId": [
+      "Kemampuan tekanan ultra-tinggi",
+      "Deteksi UV-Vis dan fluoresensi",
+      "Sistem elusi gradien",
+      "Kepatuhan FDA 21 CFR Part 11"
+    ],
+    "specifications": {
+      "Max Pressure": "130 MPa",
+      "Flow Rate": "0.0001-10 mL/min",
+      "Wavelength": "190-900 nm"
+    },
+    "createdAt": "2024-01-15",
+    "updatedAt": "2024-01-15",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-analytical-chemistry",
+    "subCategoryName": "Analytical Chemistry"
+  },
+  {
+    "id": "mass-spec-gcms",
+    "name": "GC-MS Mass Spectrometry",
+    "nameId": "Spektrometri Massa GC-MS",
+    "category": "Mass Spectrometry",
+    "description": "Combined gas chromatography-mass spectrometry for definitive compound identification and quantification in complex matrices.",
+    "descriptionId": "Kombinasi kromatografi gas-spektrometri massa untuk identifikasi dan kuantifikasi senyawa definitif dalam matriks kompleks.",
+    "image": "/images/gcms-system.jpg",
+    "features": [
+      "Triple quadrupole technology",
+      "High-speed scanning",
+      "Library search capability",
+      "EI and CI ionization modes"
+    ],
+    "featuresId": [
+      "Teknologi triple quadrupole",
+      "Pemindaian kecepatan tinggi",
+      "Kemampuan pencarian perpustakaan",
+      "Mode ionisasi EI dan CI"
+    ],
+    "specifications": {
+      "Mass Range": "1.5-1090 m/z",
+      "Scan Speed": "20,000 u/sec",
+      "Sensitivity": "fg level"
+    },
+    "createdAt": "2024-01-20",
+    "updatedAt": "2024-01-20",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-environmental-food",
+    "subCategoryName": "Environmental & Food"
+  },
+  {
+    "id": "mass-spec-lcms",
+    "name": "LC-MS/MS Systems",
+    "nameId": "Sistem LC-MS/MS",
+    "category": "Mass Spectrometry",
+    "description": "Liquid chromatography tandem mass spectrometry for ultra-trace analysis in pharmaceutical, clinical, and food safety testing.",
+    "descriptionId": "Kromatografi cair tandem spektrometri massa untuk analisis ultra-trace dalam pengujian farmasi, klinis, dan keamanan pangan.",
+    "image": "/images/lcms-system.jpg",
+    "features": [
+      "ESI and APCI sources",
+      "MRM mode for quantification",
+      "Ultra-fast polarity switching",
+      "Robust ion optics"
+    ],
+    "featuresId": [
+      "Sumber ESI dan APCI",
+      "Mode MRM untuk kuantifikasi",
+      "Pergantian polaritas ultra-cepat",
+      "Optik ion yang handal"
+    ],
+    "specifications": {
+      "Polarity Switching": "5 msec",
+      "MRM Transitions": "555/sec",
+      "Mass Range": "10-2000 m/z"
+    },
+    "createdAt": "2024-01-20",
+    "updatedAt": "2024-01-20",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-life-science",
+    "subCategoryName": "Life Science"
+  },
+  {
+    "id": "spectroscopy-edx",
+    "name": "EDX Spectroscopy Systems",
+    "nameId": "Sistem Spektroskopi EDX",
+    "category": "Spectroscopy",
+    "description": "Energy dispersive X-ray fluorescence spectrometers for rapid elemental analysis of metals, minerals, and environmental samples.",
+    "descriptionId": "Spektrometer fluoresensi sinar-X dispersi energi untuk analisis elemen cepat logam, mineral, dan sampel lingkungan.",
+    "image": "/images/edx-system.jpg",
+    "features": [
+      "Non-destructive analysis",
+      "Multi-element detection",
+      "Rapid screening capability",
+      "Minimal sample preparation"
+    ],
+    "featuresId": [
+      "Analisis non-destruktif",
+      "Deteksi multi-elemen",
+      "Kemampuan skrining cepat",
+      "Persiapan sampel minimal"
+    ],
+    "specifications": {
+      "Elements": "Na to U",
+      "Analysis Time": "10-300 sec",
+      "Atmosphere": "Air/Vacuum/He"
+    },
+    "createdAt": "2024-02-01",
+    "updatedAt": "2024-02-01",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-industrial-qc",
+    "subCategoryName": "Industrial QC"
+  },
+  {
+    "id": "spectroscopy-icp",
+    "name": "ICP Emission Spectrometry",
+    "nameId": "Spektrometri Emisi ICP",
+    "category": "Spectroscopy",
+    "description": "Inductively coupled plasma emission spectrometers for simultaneous multi-element analysis at trace levels.",
+    "descriptionId": "Spektrometer emisi plasma kopling induktif untuk analisis multi-elemen simultan pada tingkat jejak.",
+    "image": "/images/icp-system.jpg",
+    "features": [
+      "Simultaneous measurement",
+      "Wide dynamic range",
+      "Axial and radial viewing",
+      "Auto-optimization"
+    ],
+    "featuresId": [
+      "Pengukuran simultan",
+      "Rentang dinamis lebar",
+      "Tampilan aksial dan radial",
+      "Optimisasi otomatis"
+    ],
+    "specifications": {
+      "Wavelength": "160-800 nm",
+      "Detection Limit": "sub-ppb",
+      "Plasma": "27.12 MHz"
+    },
+    "createdAt": "2024-02-01",
+    "updatedAt": "2024-02-01",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-environmental-food",
+    "subCategoryName": "Environmental & Food"
+  },
+  {
+    "id": "life-science-mce",
+    "name": "Microchip Electrophoresis Systems",
+    "nameId": "Sistem Elektroforesis Microchip",
+    "category": "Life Science",
+    "description": "Automated microchip electrophoresis for DNA, RNA, and protein analysis with rapid, high-resolution separations.",
+    "descriptionId": "Elektroforesis microchip otomatis untuk analisis DNA, RNA, dan protein dengan pemisahan cepat resolusi tinggi.",
+    "image": "/images/mce-system.jpg",
+    "features": [
+      "120-second analysis time",
+      "4-channel parallel analysis",
+      "Integrated fluorescence detection",
+      "Compact benchtop design"
+    ],
+    "featuresId": [
+      "Waktu analisis 120 detik",
+      "Analisis paralel 4 saluran",
+      "Deteksi fluoresensi terintegrasi",
+      "Desain benchtop kompak"
+    ],
+    "specifications": {
+      "Channels": "4 parallel",
+      "Analysis Time": "~120 sec",
+      "Sample Volume": "25 µL"
+    },
+    "createdAt": "2024-02-10",
+    "updatedAt": "2024-02-10",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-life-science",
+    "subCategoryName": "Life Science"
+  },
+  {
+    "id": "environmental-toc",
+    "name": "TOC Analyzers",
+    "nameId": "Penganalisis TOC",
+    "category": "Environmental",
+    "description": "Total organic carbon analyzers for water quality monitoring, pharmaceutical water testing, and environmental compliance.",
+    "descriptionId": "Penganalisis karbon organik total untuk pemantauan kualitas air, pengujian air farmasi, dan kepatuhan lingkungan.",
+    "image": "/images/toc-system.jpg",
+    "features": [
+      "680°C combustion catalytic oxidation",
+      "NDIR detection",
+      "Online and offline models",
+      "USP/EP compliance"
+    ],
+    "featuresId": [
+      "Oksidasi katalitik pembakaran 680°C",
+      "Deteksi NDIR",
+      "Model online dan offline",
+      "Kepatuhan USP/EP"
+    ],
+    "specifications": {
+      "Range": "0-30,000 mg/L",
+      "Detection": "4 µg/L",
+      "Method": "Combustion catalytic"
+    },
+    "createdAt": "2024-02-15",
+    "updatedAt": "2024-02-15",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-environmental-food",
+    "subCategoryName": "Environmental & Food"
+  },
+  {
+    "id": "thermal-analyzers",
+    "name": "Thermal Analysis Systems",
+    "nameId": "Sistem Analisis Termal",
+    "category": "Thermal Analysis",
+    "description": "Comprehensive thermal analysis instruments including DSC, TGA, and TMA for material characterization across industries.",
+    "descriptionId": "Instrumen analisis termal komprehensif termasuk DSC, TGA, dan TMA untuk karakterisasi material lintas industri.",
+    "image": "/images/thermal-system.jpg",
+    "features": [
+      "DSC, TGA, TMA, DMA modules",
+      "Wide temperature range",
+      "Real-time kinetics analysis",
+      "Multiple atmosphere control"
+    ],
+    "featuresId": [
+      "Modul DSC, TGA, TMA, DMA",
+      "Rentang suhu lebar",
+      "Analisis kinetika real-time",
+      "Kontrol atmosfer ganda"
+    ],
+    "specifications": {
+      "Temp Range": "-150°C to 1500°C",
+      "Balance Sensitivity": "0.1 µg",
+      "Atmosphere": "N2/Air/O2"
+    },
+    "createdAt": "2024-03-01",
+    "updatedAt": "2024-03-01",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-materials-testing",
+    "subCategoryName": "Materials Testing"
+  },
+  {
+    "id": "balances-scales",
+    "name": "Precision Balances & Scales",
+    "nameId": "Timbangan & Neraca Presisi",
+    "category": "Balances",
+    "description": "High-precision analytical balances and scales for laboratory and industrial weighing applications with superior stability.",
+    "descriptionId": "Timbangan analitik presisi tinggi dan neraca untuk aplikasi penimbangan laboratorium dan industri dengan stabilitas superior.",
+    "image": "/images/balance-system.jpg",
+    "features": [
+      "UniBloc sensor technology",
+      "Automatic self-calibration",
+      "Static electricity removal",
+      "GLP/GMP compliance"
+    ],
+    "featuresId": [
+      "Teknologi sensor UniBloc",
+      "Kalibrasi otomatis mandiri",
+      "Penghilangan listrik statis",
+      "Kepatuhan GLP/GMP"
+    ],
+    "specifications": {
+      "Readability": "0.001 mg",
+      "Capacity": "up to 34 kg",
+      "Repeatability": "0.0015 mg"
+    },
+    "createdAt": "2024-03-10",
+    "updatedAt": "2024-03-10",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-industrial-qc",
+    "subCategoryName": "Industrial QC"
+  },
+  {
+    "id": "particle-size",
+    "name": "Particle Size & Powder Analyzers",
+    "nameId": "Penganalisis Ukuran Partikel & Serbuk",
+    "category": "Particle Analysis",
+    "description": "Advanced particle size distribution analyzers using laser diffraction and dynamic light scattering for materials characterization.",
+    "descriptionId": "Penganalisis distribusi ukuran partikel canggih menggunakan difraksi laser dan hamburan cahaya dinamis untuk karakterisasi material.",
+    "image": "/images/particle-system.jpg",
+    "features": [
+      "Laser diffraction method",
+      "Wet and dry measurement",
+      "Wide measurement range",
+      "Automated dispersing unit"
+    ],
+    "featuresId": [
+      "Metode difraksi laser",
+      "Pengukuran basah dan kering",
+      "Rentang pengukuran lebar",
+      "Unit dispersi otomatis"
+    ],
+    "specifications": {
+      "Range": "0.01-3500 µm",
+      "Method": "Laser diffraction",
+      "Reproducibility": "±0.5%"
+    },
+    "createdAt": "2024-03-15",
+    "updatedAt": "2024-03-15",
+    "brandId": "shimadzu",
+    "brandName": "Shimadzu",
+    "subCategoryId": "shimadzu-pharmaceutical",
+    "subCategoryName": "Pharmaceutical"
+  },
+  {
+    "id": "columns-consumables",
+    "name": "Columns & Consumables",
+    "nameId": "Kolom & Bahan Habis Pakai",
+    "category": "Consumables",
+    "description": "Wide range of chromatography columns, sample vials, syringes, and consumable supplies for all analytical instruments.",
+    "descriptionId": "Berbagai kolom kromatografi, vial sampel, syringe, dan persediaan bahan habis pakai untuk semua instrumen analitik.",
+    "image": "/images/columns-system.jpg",
+    "features": [
+      "HPLC and GC columns",
+      "Sample preparation kits",
+      "Certified reference materials",
+      "Filters and fittings"
+    ],
+    "featuresId": [
+      "Kolom HPLC dan GC",
+      "Kit preparasi sampel",
+      "Material referensi bersertifikat",
+      "Filter dan fitting"
+    ],
+    "specifications": {
+      "Column Types": "C18, C8, Phenyl, HILIC",
+      "Vial Sizes": "1.5mL, 2mL, 4mL",
+      "Materials": "Glass, PP, PEEK"
+    },
+    "createdAt": "2024-03-20",
+    "updatedAt": "2024-03-20",
+    "brandId": "ymc",
+    "brandName": "YMC",
+    "subCategoryId": "ymc-reversed-phase",
+    "subCategoryName": "Reversed Phase Columns"
+  },
+  {
+    "id": "belec-oes",
+    "name": "Optical Emission Spectrometer (OES)",
+    "nameId": "Spektrometer Emisi Optik (OES)",
+    "category": "Spectroscopy",
+    "brandId": "belec",
+    "brandName": "Belec Spectrometrie",
+    "description": "Portable and stationary optical emission spectrometers for rapid metal analysis in foundries, metal processing, and quality control.",
+    "descriptionId": "Spektrometer emisi optik portabel dan stasioner untuk analisis logam cepat di pengecoran, pengolahan logam, dan kontrol kualitas.",
+    "image": "/images/belec-oes.jpg",
+    "features": [
+      "Portable and stationary models",
+      "Rapid metal analysis",
+      "Wide element coverage",
+      "Spark and arc excitation"
+    ],
+    "featuresId": [
+      "Model portabel dan stasioner",
+      "Analisis logam cepat",
+      "Cakupan elemen luas",
+      "Eksitasi spark dan arc"
+    ],
+    "specifications": {
+      "Elements": "C, S, P, Mn, Cr, Ni, etc.",
+      "Analysis Time": "< 30 sec",
+      "Type": "CCD-based"
+    },
+    "createdAt": "2024-04-01",
+    "updatedAt": "2024-04-01",
+    "subCategoryId": "belec-metal-analysis",
+    "subCategoryName": "Metal Analysis"
+  },
+  {
+    "id": "semplor-nanos-sem",
+    "name": "Nanos Benchtop SEM",
+    "nameId": "SEM Benchtop Nanos",
+    "category": "Electron Microscopy",
+    "brandId": "semplor",
+    "brandName": "Semplor",
+    "description": "Compact benchtop Scanning Electron Microscope (SEM) delivering high-resolution imaging for research and industrial applications.",
+    "descriptionId": "Scanning Electron Microscope (SEM) benchtop kompak yang memberikan pencitraan resolusi tinggi untuk aplikasi penelitian dan industri.",
+    "image": "/images/semplor-sem.jpg",
+    "features": [
+      "High-resolution imaging",
+      "Compact benchtop design",
+      "EDS integration",
+      "Low-vacuum mode"
+    ],
+    "featuresId": [
+      "Pencitraan resolusi tinggi",
+      "Desain benchtop kompak",
+      "Integrasi EDS",
+      "Mode vakum rendah"
+    ],
+    "specifications": {
+      "Resolution": "< 10 nm",
+      "Magnification": "10x - 150,000x",
+      "Accelerating Voltage": "0.5 - 30 kV"
+    },
+    "createdAt": "2024-04-10",
+    "updatedAt": "2024-04-10",
+    "subCategoryId": "semplor-material-science",
+    "subCategoryName": "Material Science"
+  },
+  {
+    "id": "ymc-hplc-columns",
+    "name": "YMC HPLC Columns",
+    "nameId": "Kolom HPLC YMC",
+    "category": "Consumables",
+    "brandId": "ymc",
+    "brandName": "YMC",
+    "description": "Premium HPLC columns and packing materials for pharmaceutical, chemical, and food industry chromatography applications.",
+    "descriptionId": "Kolom HPLC premium dan material packing untuk aplikasi kromatografi industri farmasi, kimia, dan makanan.",
+    "image": "/images/ymc-columns.jpg",
+    "features": [
+      "Wide selectivity range",
+      "Preparative and analytical scales",
+      "Bio-compatible options",
+      "Excellent reproducibility"
+    ],
+    "featuresId": [
+      "Rentang selektivitas luas",
+      "Skala preparatif dan analitik",
+      "Opsi bio-kompatibel",
+      "Reproduksibilitas sangat baik"
+    ],
+    "specifications": {
+      "Particle Sizes": "1.9, 3, 5, 10 µm",
+      "Phases": "C18, C8, C4, Phenyl, HILIC",
+      "ID Range": "0.1 - 50 mm"
+    },
+    "createdAt": "2024-04-15",
+    "updatedAt": "2024-04-15",
+    "subCategoryId": "ymc-reversed-phase",
+    "subCategoryName": "Reversed Phase Columns"
+  },
+  {
+    "id": "niumag-lf-nmr",
+    "name": "Low-Field NMR Analyzer",
+    "nameId": "Penganalisis NMR Medan Rendah",
+    "category": "NMR",
+    "brandId": "niumag",
+    "brandName": "NiuMag",
+    "description": "Benchtop low-field NMR instruments for food science, petroleum, polymer research, and material characterization.",
+    "descriptionId": "Instrumen NMR medan rendah benchtop untuk ilmu pangan, petroleum, penelitian polimer, dan karakterisasi material.",
+    "image": "/images/niumag-nmr.jpg",
+    "features": [
+      "Non-destructive analysis",
+      "Rapid measurement",
+      "Multiple application modules",
+      "Compact benchtop design"
+    ],
+    "featuresId": [
+      "Analisis non-destruktif",
+      "Pengukuran cepat",
+      "Modul aplikasi ganda",
+      "Desain benchtop kompak"
+    ],
+    "specifications": {
+      "Frequency": "2 - 23 MHz",
+      "Magnet": "Permanent",
+      "Applications": "Relaxometry, Diffusometry"
+    },
+    "createdAt": "2024-05-01",
+    "updatedAt": "2024-05-01",
+    "subCategoryId": "niumag-food-agriculture",
+    "subCategoryName": "Food & Agriculture"
+  },
+  {
+    "id": "preekem-microwave",
+    "name": "Microwave Digestion System",
+    "nameId": "Sistem Digestasi Microwave",
+    "category": "Sample Preparation",
+    "brandId": "preekem",
+    "brandName": "Preekem",
+    "description": "Advanced microwave digestion systems for sample preparation in elemental analysis, environmental testing, and food safety.",
+    "descriptionId": "Sistem digestasi microwave canggih untuk preparasi sampel dalam analisis elemental, pengujian lingkungan, dan keamanan pangan.",
+    "image": "/images/preekem-mw.jpg",
+    "features": [
+      "High-throughput processing",
+      "Temperature and pressure monitoring",
+      "Safety pressure release",
+      "Multiple vessel options"
+    ],
+    "featuresId": [
+      "Pemrosesan throughput tinggi",
+      "Pemantauan suhu dan tekanan",
+      "Pelepas tekanan keamanan",
+      "Opsi bejana ganda"
+    ],
+    "specifications": {
+      "Power": "1800W",
+      "Vessels": "Up to 40",
+      "Temperature": "Up to 300°C"
+    },
+    "createdAt": "2024-05-15",
+    "updatedAt": "2024-05-15",
+    "subCategoryId": "preekem-environmental-digestion",
+    "subCategoryName": "Environmental Digestion"
+  },
+  {
+    "id": "labnav-sample-prep",
+    "name": "Automated Sample Preparation System",
+    "nameId": "Sistem Preparasi Sampel Otomatis",
+    "category": "Sample Preparation",
+    "brandId": "labnav",
+    "brandName": "LabNav",
+    "description": "Intelligent automated sample preparation solutions for improved laboratory workflow efficiency and accuracy.",
+    "descriptionId": "Solusi preparasi sampel otomatis cerdas untuk peningkatan efisiensi dan akurasi alur kerja laboratorium.",
+    "image": "/images/labnav-prep.jpg",
+    "features": [
+      "Fully automated workflow",
+      "Barcode tracking",
+      "Multi-method capability",
+      "Software integration"
+    ],
+    "featuresId": [
+      "Alur kerja otomatis penuh",
+      "Pelacakan barcode",
+      "Kemampuan multi-metode",
+      "Integrasi perangkat lunak"
+    ],
+    "specifications": {
+      "Throughput": "Up to 96 samples/batch",
+      "Methods": "SPE, Filtration, Dilution",
+      "Volume": "0.1 - 50 mL"
+    },
+    "createdAt": "2024-06-01",
+    "updatedAt": "2024-06-01",
+    "subCategoryId": "labnav-liquid-handling",
+    "subCategoryName": "Liquid Handling"
+  }
+]

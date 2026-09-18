@@ -1,0 +1,79 @@
+[
+  {
+    "id": "shimadzu",
+    "name": "Shimadzu",
+    "slug": "shimadzu",
+    "logo": "/images/brands/shimadzu.png",
+    "website": "https://www.shimadzu.com",
+    "country": "Japan",
+    "description": "Shimadzu Corporation is a leading Japanese analytical instrument manufacturer founded in 1875 in Kyoto. As the world's premier provider of analytical and measuring instruments, Shimadzu offers comprehensive solutions in chromatography, mass spectrometry, spectroscopy, and material testing. PT. Ditek Jaya is the sole authorized distributor of Shimadzu in Indonesia.",
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "belec",
+    "name": "Belec Spectrometrie",
+    "slug": "belec-spectrometrie",
+    "logo": "/images/brands/belec.png",
+    "website": "https://www.belec.de",
+    "country": "Germany",
+    "description": "Belec Spectrometrie is a German manufacturer specializing in optical emission spectrometers (OES) for metal analysis. Their portable and stationary spectrometers are used in foundries, metal processing plants, and quality control laboratories worldwide.",
+    "featured": true,
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "semplor",
+    "name": "Semplor",
+    "slug": "semplor",
+    "logo": "/images/brands/semplor.png",
+    "website": "https://www.semplor.com",
+    "country": "China",
+    "description": "Semplor manufactures the Nanos series of benchtop Scanning Electron Microscopes (SEM). Their compact, high-resolution SEM systems bring advanced electron microscopy capabilities to research and industrial laboratories at accessible price points.",
+    "featured": true,
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "ymc",
+    "name": "YMC",
+    "slug": "ymc",
+    "logo": "/images/brands/ymc.png",
+    "website": "https://www.ymc.co.jp",
+    "country": "Japan",
+    "description": "YMC Co., Ltd. is a leading manufacturer of chromatography columns and packing materials. Founded in Kyoto, Japan, YMC provides high-quality HPLC columns, preparative columns, and bulk media used in pharmaceutical, chemical, and food industries.",
+    "featured": true,
+    "createdAt": "2024-02-15T00:00:00.000Z"
+  },
+  {
+    "id": "niumag",
+    "name": "NiuMag",
+    "slug": "niumag",
+    "logo": "/images/brands/niumag.png",
+    "website": "https://www.niumag.com",
+    "country": "China",
+    "description": "NiuMag Corporation specializes in low-field Nuclear Magnetic Resonance (NMR) instruments. Their benchtop NMR analyzers are widely used in food science, petroleum, polymer research, and material characterization applications.",
+    "featured": true,
+    "createdAt": "2024-03-01T00:00:00.000Z"
+  },
+  {
+    "id": "preekem",
+    "name": "Preekem",
+    "slug": "preekem",
+    "logo": "/images/brands/preekem.png",
+    "website": "https://www.preekem.com",
+    "country": "China",
+    "description": "Preekem Scientific Instruments provides advanced microwave digestion systems and sample preparation equipment. Their products are essential for analytical laboratories performing elemental analysis, environmental testing, and food safety analysis.",
+    "featured": true,
+    "createdAt": "2024-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "labnav",
+    "name": "LabNav",
+    "slug": "labnav",
+    "logo": "/images/brands/labnav.png",
+    "website": "https://www.labnav.com",
+    "country": "China",
+    "description": "LabNav specializes in sample preparation equipment and laboratory automation solutions. Their product range includes automated sample processing systems, homogenizers, and preparation tools designed to improve laboratory workflow efficiency.",
+    "featured": true,
+    "createdAt": "2024-04-01T00:00:00.000Z"
+  }
+]

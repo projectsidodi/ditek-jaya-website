@@ -1,0 +1,74 @@
+[
+  {
+    "id": "installation",
+    "title": "Installation & Commissioning",
+    "titleId": "Instalasi & Komisioning",
+    "description": "Professional installation and setup of analytical instruments by certified Shimadzu engineers. We ensure your equipment is optimally configured from day one.",
+    "descriptionId": "Instalasi dan setup profesional instrumen analitik oleh insinyur bersertifikat Shimadzu. Kami memastikan peralatan Anda dikonfigurasi secara optimal sejak hari pertama.",
+    "icon": "Wrench",
+    "features": ["On-site installation", "System configuration", "Performance verification", "User orientation training"],
+    "featuresId": ["Instalasi di lokasi", "Konfigurasi sistem", "Verifikasi kinerja", "Pelatihan orientasi pengguna"],
+    "createdAt": "2024-01-01",
+    "updatedAt": "2024-01-01"
+  },
+  {
+    "id": "iq-oq-pm",
+    "title": "IQ/OQ/PM Qualification & Maintenance",
+    "titleId": "Kualifikasi IQ/OQ/PM & Pemeliharaan",
+    "description": "Comprehensive Installation Qualification (IQ), Operational Qualification (OQ), and Preventive Maintenance programs compliant with GLP/GMP requirements.",
+    "descriptionId": "Program Kualifikasi Instalasi (IQ), Kualifikasi Operasional (OQ), dan Pemeliharaan Preventif yang komprehensif sesuai persyaratan GLP/GMP.",
+    "icon": "ClipboardCheck",
+    "features": ["IQ documentation & verification", "OQ testing & protocols", "Scheduled preventive maintenance", "GLP/GMP compliance certificates"],
+    "featuresId": ["Dokumentasi & verifikasi IQ", "Pengujian & protokol OQ", "Pemeliharaan preventif terjadwal", "Sertifikat kepatuhan GLP/GMP"],
+    "createdAt": "2024-01-01",
+    "updatedAt": "2024-01-01"
+  },
+  {
+    "id": "troubleshooting",
+    "title": "Troubleshooting & Repair",
+    "titleId": "Pemecahan Masalah & Perbaikan",
+    "description": "Rapid response troubleshooting and repair services to minimize downtime. Our experienced technicians diagnose and resolve instrument issues efficiently.",
+    "descriptionId": "Layanan pemecahan masalah dan perbaikan respons cepat untuk meminimalkan waktu henti. Teknisi berpengalaman kami mendiagnosis dan menyelesaikan masalah instrumen secara efisien.",
+    "icon": "Settings",
+    "features": ["24/7 technical hotline", "On-site and remote support", "Genuine spare parts", "Root cause analysis"],
+    "featuresId": ["Hotline teknis 24/7", "Dukungan di lokasi dan jarak jauh", "Suku cadang asli", "Analisis akar penyebab"],
+    "createdAt": "2024-01-01",
+    "updatedAt": "2024-01-01"
+  },
+  {
+    "id": "training",
+    "title": "Service & Application Training",
+    "titleId": "Pelatihan Layanan & Aplikasi",
+    "description": "Comprehensive training programs for operators and maintenance personnel. Hands-on sessions covering instrument operation, method development, and maintenance.",
+    "descriptionId": "Program pelatihan komprehensif untuk operator dan personel pemeliharaan. Sesi praktik langsung mencakup operasi instrumen, pengembangan metode, dan pemeliharaan.",
+    "icon": "GraduationCap",
+    "features": ["Operator training courses", "Method development workshops", "Maintenance certification", "Customized training programs"],
+    "featuresId": ["Kursus pelatihan operator", "Workshop pengembangan metode", "Sertifikasi pemeliharaan", "Program pelatihan khusus"],
+    "createdAt": "2024-01-01",
+    "updatedAt": "2024-01-01"
+  },
+  {
+    "id": "warranty",
+    "title": "Warranty Management",
+    "titleId": "Manajemen Garansi",
+    "description": "Complete warranty management services ensuring your instruments are covered and maintained according to manufacturer specifications throughout the warranty period.",
+    "descriptionId": "Layanan manajemen garansi lengkap memastikan instrumen Anda tercakup dan dipelihara sesuai spesifikasi pabrik selama masa garansi.",
+    "icon": "Shield",
+    "features": ["Extended warranty options", "Warranty claim processing", "Coverage tracking", "Priority service access"],
+    "featuresId": ["Opsi perpanjangan garansi", "Pemrosesan klaim garansi", "Pelacakan cakupan", "Akses layanan prioritas"],
+    "createdAt": "2024-01-01",
+    "updatedAt": "2024-01-01"
+  },
+  {
+    "id": "quality-assurance",
+    "title": "Quality Assurance Information",
+    "titleId": "Informasi Jaminan Kualitas",
+    "description": "Access to quality assurance documentation, certificates of analysis, and compliance information for all Shimadzu instruments and consumables.",
+    "descriptionId": "Akses ke dokumentasi jaminan kualitas, sertifikat analisis, dan informasi kepatuhan untuk semua instrumen dan bahan habis pakai Shimadzu.",
+    "icon": "Award",
+    "features": ["Certificates of analysis", "Calibration documentation", "Regulatory compliance info", "Traceability records"],
+    "featuresId": ["Sertifikat analisis", "Dokumentasi kalibrasi", "Info kepatuhan regulasi", "Catatan ketertelusuran"],
+    "createdAt": "2024-01-01",
+    "updatedAt": "2024-01-01"
+  }
+]

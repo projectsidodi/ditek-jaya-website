@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jakarta",
+    "city": "Jakarta (Head Office)",
+    "address": "Kedoya Elok Plaza, Jl. Panjang No.5, Kedoya Selatan, Kebon Jeruk, Jakarta Barat 11520",
+    "phone": "+62 21 5803388",
+    "email": "info@ditekjaya.co.id",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3!2d106.76!3d-6.17!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMTAnMTIuMCJTIDEwNsKwNDUnMzYuMCJF!5e0!3m2!1sen!2sid!4v1",
+    "isHeadOffice": true
+  },
+  {
+    "id": "surabaya",
+    "city": "Surabaya",
+    "address": "Jl. Raya Darmo No. 54-56, Surabaya, Jawa Timur 60264",
+    "phone": "+62 31 5676789",
+    "email": "surabaya@ditekjaya.co.id",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.6!2d112.74!3d-7.29!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z!5e0!3m2!1sen!2sid!4v1",
+    "isHeadOffice": false
+  },
+  {
+    "id": "bandung",
+    "city": "Bandung",
+    "address": "Jl. Asia Afrika No. 141-149, Bandung, Jawa Barat 40112",
+    "phone": "+62 22 4233456",
+    "email": "bandung@ditekjaya.co.id",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9!2d107.61!3d-6.92!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z!5e0!3m2!1sen!2sid!4v1",
+    "isHeadOffice": false
+  },
+  {
+    "id": "solo",
+    "city": "Solo",
+    "address": "Jl. Slamet Riyadi No. 325, Solo, Jawa Tengah 57141",
+    "phone": "+62 271 716789",
+    "email": "solo@ditekjaya.co.id",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.2!2d110.82!3d-7.57!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z!5e0!3m2!1sen!2sid!4v1",
+    "isHeadOffice": false
+  },
+  {
+    "id": "medan",
+    "city": "Medan",
+    "address": "Jl. Gatot Subroto No. 200, Medan, Sumatera Utara 20123",
+    "phone": "+62 61 4567890",
+    "email": "medan@ditekjaya.co.id",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.9!2d98.67!3d3.59!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z!5e0!3m2!1sen!2sid!4v1",
+    "isHeadOffice": false
+  }
+]

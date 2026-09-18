@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "shimadzu-nexera-xr-launch-2024",
+    "title": "Shimadzu Launches New Nexera XR UHPLC System",
+    "titleId": "Shimadzu Meluncurkan Sistem UHPLC Nexera XR Baru",
+    "excerpt": "The next generation of ultra-high performance liquid chromatography has arrived, offering unprecedented analytical capabilities.",
+    "excerptId": "Generasi selanjutnya kromatografi cair ultra-high performance telah hadir, menawarkan kemampuan analitik yang belum pernah ada sebelumnya.",
+    "content": "Shimadzu Corporation has announced the launch of the Nexera XR, the latest addition to its renowned UHPLC lineup. This cutting-edge system delivers exceptional performance with enhanced sensitivity, speed, and reliability.\n\nThe Nexera XR features an innovative flow line design that minimizes extra-column volume, resulting in sharper peaks and better resolution. With a maximum pressure of 130 MPa, it can handle the most demanding separations.\n\nPT. Ditek Jaya, as the sole Shimadzu distributor in Indonesia, is proud to bring this technology to Indonesian laboratories. Contact us for demonstrations and pricing.",
+    "contentId": "Shimadzu Corporation telah mengumumkan peluncuran Nexera XR, tambahan terbaru untuk jajaran UHPLC yang terkenal. Sistem mutakhir ini memberikan kinerja luar biasa dengan sensitivitas, kecepatan, dan keandalan yang ditingkatkan.\n\nNexera XR menampilkan desain jalur aliran inovatif yang meminimalkan volume ekstra-kolom, menghasilkan puncak yang lebih tajam dan resolusi yang lebih baik. Dengan tekanan maksimum 130 MPa, sistem ini dapat menangani pemisahan yang paling menuntut.\n\nPT. Ditek Jaya, sebagai distributor tunggal Shimadzu di Indonesia, dengan bangga membawa teknologi ini ke laboratorium Indonesia. Hubungi kami untuk demonstrasi dan harga.",
+    "image": "/images/news-nexera.jpg",
+    "author": "PT. Ditek Jaya",
+    "category": "Product Launch",
+    "publishedAt": "2024-03-15",
+    "createdAt": "2024-03-15",
+    "updatedAt": "2024-03-15"
+  },
+  {
+    "slug": "laboratory-best-practices-2024",
+    "title": "Best Practices for Laboratory Instrument Maintenance",
+    "titleId": "Praktik Terbaik untuk Pemeliharaan Instrumen Laboratorium",
+    "excerpt": "Learn essential maintenance tips to maximize the lifespan and performance of your analytical instruments.",
+    "excerptId": "Pelajari tips pemeliharaan penting untuk memaksimalkan umur pakai dan kinerja instrumen analitik Anda.",
+    "content": "Proper maintenance of analytical instruments is crucial for ensuring accurate results and extending equipment lifespan. Here are our top recommendations:\n\n1. **Regular Calibration**: Schedule calibration checks according to manufacturer guidelines.\n2. **Environmental Control**: Maintain stable temperature and humidity in your lab.\n3. **Preventive Maintenance**: Don't wait for failures. Regular PM visits can prevent costly downtime.\n4. **Operator Training**: Well-trained operators reduce the risk of equipment damage.\n5. **Documentation**: Keep detailed logs of all maintenance activities.\n\nPT. Ditek Jaya offers comprehensive IQ/OQ/PM services to keep your instruments performing at their best. Contact our service team for a customized maintenance plan.",
+    "contentId": "Pemeliharaan yang tepat dari instrumen analitik sangat penting untuk memastikan hasil yang akurat dan memperpanjang umur peralatan. Berikut adalah rekomendasi utama kami:\n\n1. **Kalibrasi Rutin**: Jadwalkan pemeriksaan kalibrasi sesuai panduan pabrikan.\n2. **Kontrol Lingkungan**: Pertahankan suhu dan kelembaban stabil di lab Anda.\n3. **Pemeliharaan Preventif**: Jangan tunggu kerusakan. Kunjungan PM rutin dapat mencegah downtime yang mahal.\n4. **Pelatihan Operator**: Operator yang terlatih mengurangi risiko kerusakan peralatan.\n5. **Dokumentasi**: Simpan catatan detail semua aktivitas pemeliharaan.\n\nPT. Ditek Jaya menawarkan layanan IQ/OQ/PM komprehensif untuk menjaga instrumen Anda tetap berkinerja terbaik. Hubungi tim layanan kami untuk rencana pemeliharaan yang disesuaikan.",
+    "image": "/images/news-maintenance.jpg",
+    "author": "PT. Ditek Jaya",
+    "category": "Technical Guide",
+    "publishedAt": "2024-02-28",
+    "createdAt": "2024-02-28",
+    "updatedAt": "2024-02-28"
+  },
+  {
+    "slug": "ditek-jaya-50-years-legacy",
+    "title": "Celebrating 50 Years of Scientific Excellence",
+    "titleId": "Merayakan 50 Tahun Keunggulan Ilmiah",
+    "excerpt": "PT. Ditek Jaya marks its golden jubilee as Indonesia's premier scientific instrument distributor.",
+    "excerptId": "PT. Ditek Jaya menandai yubileum emasnya sebagai distributor instrumen ilmiah terkemuka di Indonesia.",
+    "content": "Since 1974, PT. Ditek Jaya has been at the forefront of advancing scientific research and quality control in Indonesia. Our journey of 50 years reflects our unwavering commitment to providing world-class analytical solutions.\n\nFrom a single office in Jakarta to five strategic locations across Indonesia, we have grown alongside the nation's industrial and scientific development. Our partnership with Shimadzu Corporation has enabled us to bring cutting-edge technology to thousands of laboratories.\n\nAs we look to the future, we remain committed to our founding mission: empowering Indonesian science with the finest instruments and unparalleled service support.",
+    "contentId": "Sejak 1974, PT. Ditek Jaya telah menjadi yang terdepan dalam memajukan penelitian ilmiah dan kontrol kualitas di Indonesia. Perjalanan 50 tahun kami mencerminkan komitmen teguh kami dalam menyediakan solusi analitik kelas dunia.\n\nDari satu kantor di Jakarta hingga lima lokasi strategis di seluruh Indonesia, kami telah tumbuh bersama perkembangan industri dan ilmiah bangsa. Kemitraan kami dengan Shimadzu Corporation telah memungkinkan kami membawa teknologi mutakhir ke ribuan laboratorium.\n\nSaat kami melihat ke masa depan, kami tetap berkomitmen pada misi pendiri kami: memberdayakan sains Indonesia dengan instrumen terbaik dan dukungan layanan yang tiada duanya.",
+    "image": "/images/news-anniversary.jpg",
+    "author": "PT. Ditek Jaya",
+    "category": "Company News",
+    "publishedAt": "2024-01-20",
+    "createdAt": "2024-01-20",
+    "updatedAt": "2024-01-20"
+  }
+]
